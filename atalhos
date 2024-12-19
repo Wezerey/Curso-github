@@ -1,0 +1,30 @@
+Multi Ocorrências = Ctrl + D
+Multi Seleção = Alt + Click
+Zen Mode = Ctrl + K Z
+IntelliSense = Ctrl + Espaço ( guia)
+Zoom In	= Ctrl + +
+Zoom Out = Ctrl + -
+Formatar Código	= Shift + Alt + F
+Refazer = Ctrl + Y
+
+Copiar linha para baixo	Shift + Alt + Down
+Copiar linha para cima	Shift + Alt + Up
+Duplicar linha	Shift + Alt + Down
+Excluir linha	Ctrl + Shift + K
+Indentar linha	Ctrl + ]
+Desindentar linha	Ctrl + [
+Mover Linha = Alt + Seta
+Ir para definição	F12
+Ir para implementação	Ctrl + F12
+Selecionar palavra atual	Ctrl + D
+Adicionar cursor abaixo	Ctrl + Alt + Down
+Adicionar cursor acima	Ctrl + Alt + Up	
+Selecionar a mesma palavra	Ctrl + D
+Selecionar todas as ocorrências	Ctrl + Shift + L	
+Abrir terminal Ctrl + j
+
+git status - verificar quais arquivos foram modificados
+git add - adicionar as mudanças
+git commit - registral a alteracao
+git push - subir as mudanças para o repositorio remoto
+git pull - baixar as alteracao para o repositorio local
